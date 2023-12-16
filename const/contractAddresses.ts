@@ -15,6 +15,6 @@ export const NFT_COLLECTION_ADDRESS =
 
 // URL of where users can view transactions on
 // Mumbai testnet and OP Mainnet
-//export const ETHERSCAN_URL = "https://mumbai.polygonscan.com";
+export const ETHERSCAN_URL = "https://mumbai.polygonscan.com";
 // Optimism Scan.
-export const ETHERSCAN_URL = "https://optimistic.etherscan.io/";
+//export const ETHERSCAN_URL = "https://optimistic.etherscan.io/";
