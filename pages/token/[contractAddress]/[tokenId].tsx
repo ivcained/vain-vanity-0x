@@ -230,7 +230,7 @@ export default function TokenPage({ nft, contractMetadata }: Props) {
             <div className={styles.pricingContainer}>
               {/* Pricing information */}
               <div className={styles.pricingInfo}>
-                <p className={styles.label}>Price</p>
+                <p className={styles.label}>Bounty</p>
                 <div className={styles.pricingValue}>
                   {loadingContract || loadingDirect || loadingAuction ? (
                     <Skeleton width="120" height="24" />
@@ -303,7 +303,7 @@ export default function TokenPage({ nft, contractMetadata }: Props) {
                     });
                   }}
                 >
-                  Buy at asking price
+                  Create Bounty
                 </Web3Button>
 
                 <div className={`${styles.listingTimeContainer} ${styles.or}`}>

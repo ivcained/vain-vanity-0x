@@ -2,6 +2,7 @@ import type { NextPage } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
+import { useContractWrite } from "@thirdweb-dev/react";
 
 /**
  * Vain Landing Page.
@@ -18,7 +19,7 @@ const Home: NextPage = () => {
                 src="/hero-gradient.png"
                 width={1390}
                 height={1390}
-                alt="Background gradient from red to blue"
+                alt="bg gradient fm red to blue"
                 quality={100}
                 className={styles.gradient}
               />
@@ -29,7 +30,7 @@ const Home: NextPage = () => {
               src="/hero-asset.png"
               width={860}
               height={540}
-              alt="VAIN, vanity address marketplace"
+              alt="VAIN, The ETH Vanity Address Marketplace"
               quality={100}
               className={styles.heroAsset}
             />
