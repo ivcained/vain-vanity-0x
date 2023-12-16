@@ -12,7 +12,7 @@ export default function Buy() {
   return (
     <Container maxWidth="lg">
       <h1>Create Bounty</h1>
-      <p>Set your bounty for the vanity you need</p>
+      <p>Set your bounty for the vanity you need. Coming Soon!</p>
       <NFTGrid
         data={data}
         isLoading={isLoading}
