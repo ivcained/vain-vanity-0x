@@ -10,4 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: ['https://app.request.finance/01e988060a7531084916d2331af2e7d293b72a0c861a8c9bddbb54956f6b0986ac?token=3dd04e6f9d201390fc72f28a6999e1485b3fe6b7']# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['https://commerce.coinbase.com/checkout/c5b6717c-4f0f-45f1-9376-7aa97c5cbc56']['https://app.request.finance/01e988060a7531084916d2331af2e7d293b72a0c861a8c9bddbb54956f6b0986ac?token=3dd04e6f9d201390fc72f28a6999e1485b3fe6b7']# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
