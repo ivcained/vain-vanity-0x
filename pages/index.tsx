@@ -48,7 +48,7 @@ const Home: NextPage = () => {
                   href="https://vain.ivc.lol"
                   target="_blank"
                 >
-                  VAIN
+                  VVAIN
                 </Link>{" "}
                 enables you to buy and sell / mine <b>vanity</b>, <i>ETH</i>{" "}
                 addresses.
