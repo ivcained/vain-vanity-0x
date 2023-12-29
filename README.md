@@ -1,6 +1,8 @@
 # vain
 ![image](https://github.com/ivcained/vain-vanity-0x/assets/86070833/1132347f-41ab-4313-badb-c0239ac22af1)
 
+Built on [Vain] (https://optimistic.etherscan.io/address/0x000000000001F04A9533e92d7AD4dDe7DC19a8F3#writeContract) on the Optimism Mainnet
+
 vanity 0x address marketplace
 
 # Vain Vanity Address Marketplace
