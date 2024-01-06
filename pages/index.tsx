@@ -38,6 +38,7 @@ const Home: NextPage = () => {
           <div className={styles.heroBodyContainer}>
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
+                
                 <span className={styles.heroTitleGradient}>BUY & SELL</span>
                 <br />
                 Vanity Addresses
