@@ -3,7 +3,7 @@
 // 1. Set up the network your smart contracts are deployed to.
 // First, import the chain from the package, then set the NETWORK variable to the chain.
 import { Mumbai, Optimism } from "@thirdweb-dev/chains";
-export const NETWORK = Mumbai;
+export const NETWORK = Optimism;
 
 // 2. The address of the Vain smart contract.
 // Contracts here:
