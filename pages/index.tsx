@@ -45,7 +45,7 @@ const Home: NextPage = () => {
               <p className={styles.heroSubtitle}>
                 <Link
                   className={styles.link}
-                  href="https://vain.ivc.lol"
+                  href="https://ivc.lol"
                   target="_blank"
                 >
                   VAIN
